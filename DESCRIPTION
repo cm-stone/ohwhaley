@@ -14,5 +14,6 @@ Imports:
 Suggests: 
     testthat (>= 3.0.0)
 Config/testthat/edition: 3
-URL: https://github.com/cm-stone/ohwhaley
+URL: https://github.com/cm-stone/ohwhaley,
+    https://cm-stone.github.io/ohwhaley/
 BugReports: https://github.com/cm-stone/ohwhaley/issues
